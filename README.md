@@ -1,4 +1,8 @@
-# my-hobby-tags
+# [Теги мои и моих друзей](https://my-hobby-tags.vercel.app/)
+
+### [Open DEMO page](https://my-hobby-tags.vercel.app/)
+
+> Тестовое задание
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
